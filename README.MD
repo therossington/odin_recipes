@@ -1,0 +1,1 @@
+HTML project in Odin project - creating a bare bones HTML site. This site will use HTML knowledge. 
